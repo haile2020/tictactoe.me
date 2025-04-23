@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto+Slab:wght@400;700&display=swap');
-=======
 @import url("https://fonts.googleapis.com/css2?family=Caprasimo&family=Roboto+Slab:wght@400;700&display=swap");
->>>>>>> badbf49 (Intital commit second)
 
 * {
   box-sizing: border-box;
 }
 
 html {
-<<<<<<< HEAD
-  font-family: 'Roboto Slab', sans-serif;
-=======
   font-family: "Roboto Slab", sans-serif;
->>>>>>> badbf49 (Intital commit second)
   line-height: 1.5;
 
   color: #ebe7ef;
@@ -31,11 +23,7 @@ body {
       rgba(241, 210, 70, 0.98),
       rgba(250, 176, 103, 0.87)
     ),
-<<<<<<< HEAD
-    url('bg-pattern-dark.png');
-=======
-    url("/bg-pattern-dark.png");
->>>>>>> badbf49 (Intital commit second)
+    url("bg-pattern-dark.png");
   background-repeat: repeat;
   background-size: 100% 100%, 30% 30%, 100% 100%;
   min-height: 110rem;
@@ -53,11 +41,7 @@ header img {
 }
 
 h1 {
-<<<<<<< HEAD
-  font-family: 'Caprasimo', cursive;
-=======
   font-family: "Caprasimo", cursive;
->>>>>>> badbf49 (Intital commit second)
   font-size: 3rem;
   margin: 0 auto 3rem auto;
   color: #3f3b00;
@@ -169,11 +153,7 @@ ol {
   background: none;
   color: #f8c031;
   border: none;
-<<<<<<< HEAD
-  font-family: 'Caprasimo', cursive;
-=======
   font-family: "Caprasimo", cursive;
->>>>>>> badbf49 (Intital commit second)
   font-size: 4rem;
   text-shadow: 0 0 12px rgba(0, 0, 0, 0.7);
   animation: pulse-text-size 2s infinite ease-out;
@@ -206,11 +186,7 @@ ol {
   color: #3f3b00;
   font-size: 5rem;
   cursor: pointer;
-<<<<<<< HEAD
-  font-family: 'Caprasimo', cursive;
-=======
   font-family: "Caprasimo", cursive;
->>>>>>> badbf49 (Intital commit second)
   padding: 1rem;
 }
 
@@ -229,11 +205,7 @@ ol {
 }
 
 #game-over h2 {
-<<<<<<< HEAD
-  font-family: 'Caprasimo', cursive;
-=======
   font-family: "Caprasimo", cursive;
->>>>>>> badbf49 (Intital commit second)
   font-size: 4rem;
   text-align: center;
   color: #fcd256;
@@ -293,11 +265,7 @@ ol {
 }
 
 #game-hints h2 {
-<<<<<<< HEAD
-  font-family: 'Caprasimo', cursive;
-=======
   font-family: "Caprasimo", cursive;
->>>>>>> badbf49 (Intital commit second)
   font-size: 2rem;
   margin: 0;
 }
